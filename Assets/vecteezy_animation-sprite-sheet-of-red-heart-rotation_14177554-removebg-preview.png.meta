@@ -1,0 +1,413 @@
+fileFormatVersion: 2
+guid: 8f5c4be6ee58f2a4182151d1bb243060
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2207519030124684210
+    second: vecteezy_animation-sprite-sheet-of-red-heart-rotation_14177554-removebg-preview_0
+  - first:
+      213: -5707829453922230506
+    second: vecteezy_animation-sprite-sheet-of-red-heart-rotation_14177554-removebg-preview_1
+  - first:
+      213: 2228329644821943977
+    second: vecteezy_animation-sprite-sheet-of-red-heart-rotation_14177554-removebg-preview_2
+  - first:
+      213: -350282183314052660
+    second: vecteezy_animation-sprite-sheet-of-red-heart-rotation_14177554-removebg-preview_3
+  - first:
+      213: -3152952791466821394
+    second: vecteezy_animation-sprite-sheet-of-red-heart-rotation_14177554-removebg-preview_4
+  - first:
+      213: -1345098225873072092
+    second: vecteezy_animation-sprite-sheet-of-red-heart-rotation_14177554-removebg-preview_5
+  - first:
+      213: -9173356470649990159
+    second: vecteezy_animation-sprite-sheet-of-red-heart-rotation_14177554-removebg-preview_6
+  - first:
+      213: -7363406872834299139
+    second: vecteezy_animation-sprite-sheet-of-red-heart-rotation_14177554-removebg-preview_7
+  - first:
+      213: 1874780909789340026
+    second: vecteezy_animation-sprite-sheet-of-red-heart-rotation_14177554-removebg-preview_8
+  - first:
+      213: 7718277248163225750
+    second: vecteezy_animation-sprite-sheet-of-red-heart-rotation_14177554-removebg-preview_9
+  - first:
+      213: 5289239412260643875
+    second: vecteezy_animation-sprite-sheet-of-red-heart-rotation_14177554-removebg-preview_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vecteezy_animation-sprite-sheet-of-red-heart-rotation_14177554-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 70
+        width: 90
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b32f79acdea2ae10800000000000000
+      internalID: 2207519030124684210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_animation-sprite-sheet-of-red-heart-rotation_14177554-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 70
+        width: 89
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f14706a57b9c0b0800000000000000
+      internalID: -5707829453922230506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_animation-sprite-sheet-of-red-heart-rotation_14177554-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 70
+        width: 81
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6951a710e9cee10800000000000000
+      internalID: 2228329644821943977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_animation-sprite-sheet-of-red-heart-rotation_14177554-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 70
+        width: 68
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9ea6cc53c832bf0800000000000000
+      internalID: -350282183314052660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_animation-sprite-sheet-of-red-heart-rotation_14177554-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 70
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee83b0724267e34d0800000000000000
+      internalID: -3152952791466821394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_animation-sprite-sheet-of-red-heart-rotation_14177554-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 70
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420d3da4a40455de0800000000000000
+      internalID: -1345098225873072092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_animation-sprite-sheet-of-red-heart-rotation_14177554-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 70
+        width: 50
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f350e874e0b1b080800000000000000
+      internalID: -9173356470649990159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_animation-sprite-sheet-of-red-heart-rotation_14177554-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 70
+        width: 67
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfaaa00567cefc990800000000000000
+      internalID: -7363406872834299139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_animation-sprite-sheet-of-red-heart-rotation_14177554-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 70
+        width: 80
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a716dafed4f840a10800000000000000
+      internalID: 1874780909789340026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_animation-sprite-sheet-of-red-heart-rotation_14177554-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 70
+        width: 89
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690afb69344dc1b60800000000000000
+      internalID: 7718277248163225750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_animation-sprite-sheet-of-red-heart-rotation_14177554-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 70
+        width: 90
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324aacbc837276940800000000000000
+      internalID: 5289239412260643875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_animation-sprite-sheet-of-red-heart-rotation_14177554-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 1116
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084bc6e80a5cdeb44a5fcc47f92866f6
+      internalID: -712674901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f1791618bec298b489d9f97b662fa066
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      vecteezy_animation-sprite-sheet-of-red-heart-rotation_14177554-removebg-preview_11: -712674901
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

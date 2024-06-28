@@ -1,0 +1,776 @@
+fileFormatVersion: 2
+guid: 4f46d9ddeac8a304aaf14fdad80cfcf8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -22715034397298705
+    second: pinchos2-Photoroom_0
+  - first:
+      213: -6062426885149763731
+    second: pinchos2-Photoroom_1
+  - first:
+      213: 169726368766911344
+    second: pinchos2-Photoroom_2
+  - first:
+      213: -4918319787308831286
+    second: pinchos2-Photoroom_3
+  - first:
+      213: -6853663695350452075
+    second: pinchos2-Photoroom_4
+  - first:
+      213: -8098136085822627460
+    second: pinchos2-Photoroom_5
+  - first:
+      213: -3234387842967354348
+    second: pinchos2-Photoroom_6
+  - first:
+      213: -2643412764780667991
+    second: pinchos2-Photoroom_7
+  - first:
+      213: -4118687366208202289
+    second: pinchos2-Photoroom_8
+  - first:
+      213: -7663124521041772978
+    second: pinchos2-Photoroom_9
+  - first:
+      213: 4493661951831267370
+    second: pinchos2-Photoroom_10
+  - first:
+      213: 1756609959826715964
+    second: pinchos2-Photoroom_11
+  - first:
+      213: 7318415876750704931
+    second: pinchos2-Photoroom_12
+  - first:
+      213: 2130938723833024220
+    second: pinchos2-Photoroom_13
+  - first:
+      213: -1526527294681404012
+    second: pinchos2-Photoroom_14
+  - first:
+      213: -3146227469960638818
+    second: pinchos2-Photoroom_15
+  - first:
+      213: 4383874765205301090
+    second: pinchos2-Photoroom_16
+  - first:
+      213: -7572189671907658771
+    second: pinchos2-Photoroom_17
+  - first:
+      213: -2042623009966706184
+    second: pinchos2-Photoroom_18
+  - first:
+      213: 4045839368882555913
+    second: pinchos2-Photoroom_19
+  - first:
+      213: -4533534813005028221
+    second: pinchos2-Photoroom_20
+  - first:
+      213: -8206501461922157752
+    second: pinchos2-Photoroom_21
+  - first:
+      213: 2703484772606138168
+    second: pinchos2-Photoroom_22
+  - first:
+      213: -8206930792600431197
+    second: pinchos2-Photoroom_23
+  - first:
+      213: -1834652973334647038
+    second: pinchos2-Photoroom_24
+  - first:
+      213: 430446059579529160
+    second: pinchos2-Photoroom_25
+  - first:
+      213: 179540519660555389
+    second: pinchos2-Photoroom_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pinchos2-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 601
+        width: 67
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef20bbebcc4faff0800000000000000
+      internalID: -22715034397298705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinchos2-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 622
+        width: 66
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67ded93edeeddba0800000000000000
+      internalID: -6062426885149763731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinchos2-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 599
+        width: 67
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0736e5fab3dfa5200800000000000000
+      internalID: 169726368766911344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinchos2-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 624
+        width: 67
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acdaea9363e9ebbb0800000000000000
+      internalID: -4918319787308831286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinchos2-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 598
+        width: 67
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59035ac6e25e2e0a0800000000000000
+      internalID: -6853663695350452075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinchos2-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 618
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7125cdb224ad9f80800000000000000
+      internalID: -8098136085822627460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinchos2-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 590
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414c612b4652d13d0800000000000000
+      internalID: -3234387842967354348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinchos2-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 617
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9abd3888816b05bd0800000000000000
+      internalID: -2643412764780667991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinchos2-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 590
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9554489ab77d6c0800000000000000
+      internalID: -4118687366208202289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinchos2-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 618
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e38bd59dc17a590800000000000000
+      internalID: -7663124521041772978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinchos2-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 290
+        width: 62
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28579b9cb1bc5e30800000000000000
+      internalID: 4493661951831267370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinchos2-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 290
+        width: 61
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c357268937bb06810800000000000000
+      internalID: 1756609959826715964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinchos2-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 290
+        width: 62
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3210e4c177c309560800000000000000
+      internalID: 7318415876750704931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinchos2-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 290
+        width: 63
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde0138aa7d929d10800000000000000
+      internalID: 2130938723833024220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinchos2-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 294
+        width: 61
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49da39c638fa0dae0800000000000000
+      internalID: -1526527294681404012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinchos2-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 294
+        width: 61
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e8b6619ca5654d0800000000000000
+      internalID: -3146227469960638818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinchos2-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 294
+        width: 61
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2676cd74fd6a6dc30800000000000000
+      internalID: 4383874765205301090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinchos2-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 294
+        width: 61
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3ff02dc9d2ae690800000000000000
+      internalID: -7572189671907658771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinchos2-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 294
+        width: 61
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f135e8d13527a3e0800000000000000
+      internalID: -2042623009966706184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinchos2-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 156
+        width: 77
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c09806875b52830800000000000000
+      internalID: 4045839368882555913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinchos2-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 156
+        width: 77
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384e7f57b16a511c0800000000000000
+      internalID: -4533534813005028221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinchos2-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 156
+        width: 77
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84be7697666ac1e80800000000000000
+      internalID: -8206501461922157752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinchos2-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 156
+        width: 77
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837ddd6b315b48520800000000000000
+      internalID: 2703484772606138168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinchos2-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 159
+        width: 77
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a516d22def1b1e80800000000000000
+      internalID: -8206930792600431197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinchos2-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 159
+        width: 77
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f264657d00a86e0800000000000000
+      internalID: -1834652973334647038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinchos2-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 159
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7543c196049f500800000000000000
+      internalID: 430446059579529160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinchos2-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 46
+        width: 694
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c0821c62bdd7200800000000000000
+      internalID: 179540519660555389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0a655669a5b1da64586ff426ba3e947b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pinchos2-Photoroom_27: 681905225
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
